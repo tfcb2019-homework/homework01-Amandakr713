@@ -61,7 +61,7 @@ Create a file called `README.md` and populate with Markdown. Demonstrate headers
 
 Commit this file and publish to your public GitHub repository.
 
-[README.md](README.md)
+[README.md](https://github.com/Amandakr713/tfcb-homework01/blob/master/README.md)
 
 ## Problem 5
 
